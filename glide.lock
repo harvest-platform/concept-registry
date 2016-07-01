@@ -1,0 +1,12 @@
+hash: a6fbaaa5a6eb07245605460bebc9423203dd513eed14b324c00ed4dc2eaca857
+updated: 2016-06-28T09:32:30.911515912-04:00
+imports:
+- name: github.com/boltdb/bolt
+  version: 3f7947a25d970e1e5f512276c14d5dcf731ccd5e
+- name: github.com/satori/go.uuid
+  version: 879c5887cd475cd7864858769793b2ceb0d44feb
+- name: github.com/tinylib/msgp
+  version: 05e600edf28f1b907005ddf6b0488fe68b819971
+  subpackages:
+  - msgp
+devImports: []

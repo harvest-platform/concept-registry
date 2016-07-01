@@ -1,0 +1,7 @@
+package: github.com/harvest-platform/concept-registry
+import:
+- package: github.com/boltdb/bolt
+- package: github.com/satori/go.uuid
+- package: github.com/tinylib/msgp
+  subpackages:
+  - msgp
